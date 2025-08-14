@@ -1,2 +1,2 @@
 # Proyecto
-Página web
+Página web interactiva
